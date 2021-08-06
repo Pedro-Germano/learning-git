@@ -1,0 +1,6 @@
+git config --global user.name "Pedro Germano"
+git config --global user.email "pedro.germano99@gmail.com"
+git config --global core.editor "code --wait"
+cd test_git
+git add test.txt
+
